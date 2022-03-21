@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/trsnaidu143/Rajasekhar_Thammineni_NamshiInterview_2nd_21-Mar.git/static/css/main.9a7f3891.css",
-    "main.js": "/trsnaidu143/Rajasekhar_Thammineni_NamshiInterview_2nd_21-Mar.git/static/js/main.639f88d7.js",
-    "static/js/787.f2cec690.chunk.js": "/trsnaidu143/Rajasekhar_Thammineni_NamshiInterview_2nd_21-Mar.git/static/js/787.f2cec690.chunk.js",
-    "static/media/logo.svg": "/trsnaidu143/Rajasekhar_Thammineni_NamshiInterview_2nd_21-Mar.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/trsnaidu143/Rajasekhar_Thammineni_NamshiInterview_2nd_21-Mar.git/index.html",
-    "main.9a7f3891.css.map": "/trsnaidu143/Rajasekhar_Thammineni_NamshiInterview_2nd_21-Mar.git/static/css/main.9a7f3891.css.map",
-    "main.639f88d7.js.map": "/trsnaidu143/Rajasekhar_Thammineni_NamshiInterview_2nd_21-Mar.git/static/js/main.639f88d7.js.map",
-    "787.f2cec690.chunk.js.map": "/trsnaidu143/Rajasekhar_Thammineni_NamshiInterview_2nd_21-Mar.git/static/js/787.f2cec690.chunk.js.map"
+    "main.css": "/Rajasekhar_Thammineni_NamshiInterview_2nd_21-Mar/static/css/main.9a7f3891.css",
+    "main.js": "/Rajasekhar_Thammineni_NamshiInterview_2nd_21-Mar/static/js/main.04901628.js",
+    "static/js/787.f2cec690.chunk.js": "/Rajasekhar_Thammineni_NamshiInterview_2nd_21-Mar/static/js/787.f2cec690.chunk.js",
+    "static/media/logo.svg": "/Rajasekhar_Thammineni_NamshiInterview_2nd_21-Mar/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Rajasekhar_Thammineni_NamshiInterview_2nd_21-Mar/index.html",
+    "main.9a7f3891.css.map": "/Rajasekhar_Thammineni_NamshiInterview_2nd_21-Mar/static/css/main.9a7f3891.css.map",
+    "main.04901628.js.map": "/Rajasekhar_Thammineni_NamshiInterview_2nd_21-Mar/static/js/main.04901628.js.map",
+    "787.f2cec690.chunk.js.map": "/Rajasekhar_Thammineni_NamshiInterview_2nd_21-Mar/static/js/787.f2cec690.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9a7f3891.css",
-    "static/js/main.639f88d7.js"
+    "static/js/main.04901628.js"
   ]
 }
